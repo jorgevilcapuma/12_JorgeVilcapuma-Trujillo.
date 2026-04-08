@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Agenda MVC Swing (vallegrande.edu.pe)
 
 Proyecto básico con estructura MVC y GUI Swing para gestión dinámica de agenda.
@@ -14,3 +15,7 @@ Proyecto básico con estructura MVC y GUI Swing para gestión dinámica de agend
 mvn package
 java -jar target/agenda-mvc-swing-0.1.0.jar
 ```
+=======
+# 12_JorgeVilcapuma-Trujillo.
+actividda
+>>>>>>> 7e7a0a996891475f3e0e83611f340931ab606f0e
